@@ -1,4 +1,4 @@
-# ✈️ Projetos em Tkinter
+# 👨🏻‍💻📝Projetos em Tkinter
 
 Bem-vindo ao meu repositório de projetos em Tkinter! Aqui você encontrará algumas aplicações simples desenvolvidas em Python.
 
